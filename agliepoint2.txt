@@ -1,0 +1,42 @@
+12 秒hello and welcome to setting up your workspace in this video we're going to show you how to log in agileo for the
+0:1818 秒first time customize your work center experience and add a user now you're seeing an email on
+0:2727 秒screen which gives you an indication that I'm setting up a trial environment for those of you who have purchased agile point you may not need to go
+0:3535 秒through this process so let's get started by provisioning our agile Point
+0:4242 秒environment so I'm going to copy the hyperlink in your case if you don't have any existing agile Point environments you can simply click the button and
+0:5151 秒we'll paste this into my browser now the first screen here asks me how I'd like to log into agile point
+1:001 分鐘and you're seeing a number of authentication providers listed on screen feel free to choose any of these that you might have access to if not you
+1:091 分鐘 9 秒can always use agile Point's built-in identity provider agile Point ID and that's what we're going to use for today's
+1:171 分鐘 17 秒video so the first thing that we'll do here is just get set up with a
+1:281 分鐘 28 秒username I'll give myself a password confirm our
+1:401 分鐘 40 秒password my first name and last name job
+1:471 分鐘 47 秒title company name my email address and my phone
+1:541 分鐘 54 秒number
+2:082 分鐘 8 秒okay so agile point is provisioning our tenant and this should be ready in about 20 or 30 seconds or
+2:192 分鐘 19 秒so okay so as you're seeing the countdown here there are couple of important details to keep in mind the login URL in our username
+2:522 分鐘 52 秒okay so as you can see here I have some trial related information again if you've purchased agile point you won't need to deal with any of this
+3:003 分鐘so for now we can just click continue okay so what we'll want to do now is we'll want to personalize our
+3:093 分鐘 9 秒workspace and we'll want to add a user to collaborate in our agile Point environment so to do that let's select
+3:163 分鐘 16 秒the settings module from the portal menu so as you can see here I can give my site a
+3:243 分鐘 24 秒name I can apply a logo or a banner right these details are going to show up on the home screen screen you'll notice
+3:313 分鐘 31 秒the logo here in the top left and if I were to go to the home screen you'll see my
+3:433 分鐘 43 秒banner all right now what we want to do next here we're going to want to go into admin
+3:523 分鐘 52 秒settings now here I can enable different authentication providers agile Point supports a mixed
+4:004 分鐘authentication strategy where some users may log in with say Office 365 credentials for instance while other
+4:074 分鐘 7 秒users Salesforce others still OCTA or active directory ping Federate you name it agile Point supports a whole host of
+4:164 分鐘 16 秒different providers here so if I wanted to enable a different authentication type here I would simply select the
+4:224 分鐘 22 秒appropriate from the list as you can see here I have a popup notification indicating this is going to
+4:304 分鐘 30 秒redirect me to an Office 365 login screen and Grant permission to the agileo application so if we click
+4:384 分鐘 38 秒okay this is going to take us to an Office 365 login screen where I can input my username my password and then
+4:464 分鐘 46 秒authorize the app and the last piece we'll want to
+4:544 分鐘 54 秒cover today is adding a user so that we can collaborate now we've covered this in a another video right you can always
+5:015 分鐘 1 秒add users from the manage center but this is a nice handy little shortcut here so we can click on that icon it's
+5:085 分鐘 8 秒going to take us over to the manage center and we can add an additional
+5:255 分鐘 25 秒user our department email address
+5:355 分鐘 35 秒title manager preferred language Yammer Skype and chatter IDs as
+5:435 分鐘 43 秒well as phone numbers so after we've added this user here we want to assign them access
+5:525 分鐘 52 秒credentials we want to assign them access rights so if I click on access rights here you can see that I can drop Dr them
+6:006 分鐘into an existing Ro now in this case here this is a new demo environment so we're only seeing the out of thebox
+6:076 分鐘 7 秒roles but if I had created any custom roles I would also see them here as well so in my case for this new user
+6:156 分鐘 15 秒they're going to be an application designer so I'll drop them into that rooll and then click
+6:236 分鐘 23 秒finish okay that concludes the content for this video thank you so much for watching until next time
+

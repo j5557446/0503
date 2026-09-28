@@ -1,0 +1,86 @@
+hello and welcome to know your app builder ide this video is all about familiarizing you with the powerful
+0:2020 秒application development and management capabilities within agile point version 8. to get started let's select the app builder from the
+0:2828 秒portal menu now from within this interface i can build a wide variety of different types
+0:3737 秒of automations process apps for your immediate workgroup department or something that spans the entire
+0:4444 秒organization and even brings in external parties into your business processes it could be a data-driven application
+0:5252 秒that simply provides a user interface on top of a back-end data source for crud operations this could be a headless or
+1:001 分鐘orchestration style process iot application chatbot or an app that's driven by machine learning
+1:101 分鐘 10 秒so let's walk through some of the different types of applications and the artifacts commonly seen in each
+1:171 分鐘 17 秒first let's expand out a data driven or form-based application and as you can see here we have two
+1:241 分鐘 24 秒folders the app model and resources and then the shared resources section so let's walk through each
+1:331 分鐘 33 秒underneath shared resources you're going to see things like access tokens or connection strings to external systems
+1:411 分鐘 41 秒application resources javascript images or the css
+1:511 分鐘 51 秒that my application will use underneath app model and resources
+2:002 分鐘you're going to see my primary and secondary data sources any document repositories
+2:072 分鐘 7 秒lookups the control library all of the forms and any notifications
+2:182 分鐘 18 秒so let's contrast that with a process-based application so if i expand out my deal review app here
+2:272 分鐘 27 秒you'll see that i have a new section here called processes now when i build a workflow or process centric application
+2:352 分鐘 35 秒i can have one or more process models associated now in this case here there's just the
+2:432 分鐘 43 秒one process but not uncommon for our customers to have multiple upwards of 5 10 15 or more processes
+2:522 分鐘 52 秒all spawn from a single parent process if i go back home here you'll see that i
+3:033 分鐘 3 秒have a recent items section this shows me all of the applications that i've worked on recently and enables me quick access to edit or
+3:113 分鐘 11 秒add new components to these applications so now that we have a sense of what
+3:193 分鐘 19 秒comprises an app let's go through the first few steps of building your next application so to do that you're seeing the add app
+3:273 分鐘 27 秒button so we'll click this
+3:353 分鐘 35 秒and now agile point is going to take me through a series of questions asking me about my application and we'll go ahead and configure the application
+3:443 分鐘 44 秒accordingly so today let's select a form-based app
+3:563 分鐘 56 秒i'll give my application a name under language i can select my preferred
+4:034 分鐘 3 秒language in which i would design the application note that this is distinct from a multilingual app at runtime
+4:114 分鐘 11 秒this is controlling the language in which i will design the application and to make my applications easier to
+4:194 分鐘 19 秒find i'm going to drop this into a category before i click next here optionally i could input a description
+4:284 分鐘 28 秒but for now let's just click next and we'll go to the next step okay now what you're seeing here is is
+4:374 分鐘 37 秒sort of a typical scenario with a form-based application these can take multiple forms right for one you can have your standard
+4:454 分鐘 45 秒data entry survey style form based application and optionally i can create what's called a widget form
+4:534 分鐘 53 秒where i might create a snippet of a form for the sole purpose of hosting that on a custom page built with agile points
+5:015 分鐘 1 秒page builder think of a contact us request a feedback sort of form that i could simply add to an existing
+5:095 分鐘 9 秒page now in my case that's not the requirement for today so i'm going to select next
+5:175 分鐘 17 秒and then agile point is going to ask me where i want to store the data for the application now you're seeing here a number of
+5:245 分鐘 24 秒out of the box examples agile points data entity databases like sql mysql or oracle
+5:335 分鐘 33 秒salesforce objects sharepoint lists and even writing back to an excel sheet
+5:425 分鐘 42 秒so for our purposes let's go with data entity and i'm going to build this against a customer table
+5:515 分鐘 51 秒so i'm going to name my data source accordingly and to make this table easier to find i want to filter my search results against
+5:595 分鐘 59 秒custom tables only so i'll select the entity that i've
+6:066 分鐘 6 秒created in another video which shows me all of the fields right i can unselect here
+6:136 分鐘 13 秒as needed and then bring over all related tables in this case here i just have a single child table but
+6:226 分鐘 22 秒it's not uncommon to see multiple child tables associated to a parent
+6:336 分鐘 33 秒and then lastly here a checklist for common application artifacts these are the same artifacts that we've just walked through in the tree view
+6:416 分鐘 41 秒and i can always add these later down the line but it's very handy to have a checklist that i can step through to make sure that i have
+6:496 分鐘 49 秒all of the elements that i need for my application again we have access tokens or connection strings to external systems
+6:586 分鐘 58 秒document repositories or where i might store an uploaded file as a part of an application css
+7:067 分鐘 6 秒users for the application images in javascript lastly who can access the application
+7:167 分鐘 16 秒by that i mean who are the owners who has full control and can give permission to other users who can design the app
+7:237 分鐘 23 秒or who can use it at runtime
+7:327 分鐘 32 秒so agile point is configuring the application per my responses to the questions and you're seeing here that agile point has pre-created
+7:407 分鐘 40 秒a number of these application components on my behalf now given that this is a form-based application we're not going to have any process here
+7:487 分鐘 48 秒but as you can see two blank forms have been created one to create new records one to update
+7:557 分鐘 55 秒existing records as well as three views all records as well as recently created and recently
+8:038 分鐘 3 秒modified records so if i were to click ok here this is going to drop me into the ui designer
+8:118 分鐘 11 秒and i could begin building my form-based
+8:248 分鐘 24 秒application now you'll see building your first form and process based applications in a separate video
+8:318 分鐘 31 秒so for now let's go back okay and as a last step here let's walk
+8:398 分鐘 39 秒through the application toolbar so i'm going to search for an application here and you'll notice that when i select the
+8:498 分鐘 49 秒application the toolbar here lights up so let's walk through the toolbar you're seeing here rename right the
+8:578 分鐘 57 秒ability to rename the application as well as edit it that being said i can always edit any of these components here simply by
+9:079 分鐘 7 秒clicking on the artifact i can manage versions here you'll see a number of prior versions of this
+9:159 分鐘 15 秒application so as you can see here i can declare this as a milestone i can export this save it as a backup
+9:239 分鐘 23 秒for instance i can make this the current version of the application
+9:319 分鐘 31 秒and i can also see all of the application dependencies this is a new feature in version 8 and essentially shows me
+9:389 分鐘 38 秒all of the application artifacts this app depends on so here you're seeing things like the
+9:449 分鐘 44 秒data entities being used the lookups access tokens
+9:529 分鐘 52 秒pick lists and any shared attributes right things
+10:0110 分鐘 1 秒like variables as an example okay now in addition to versions i can
+10:1110 分鐘 11 秒check in and check out so that i can lock the application while i'm making changes revert back to a prior version of the
+10:1910 分鐘 19 秒app the validate button here will check for errors and ensure the application will run
+10:2710 分鐘 27 秒declare milestones one click to publish this application between environments
+10:3510 分鐘 35 秒again you're seeing the dependency checker here i can notify users and groups that this application is ready to run
+10:4510 分鐘 45 秒clone the app this is going to be very useful if you'd like to make small changes for an application say for one department versus the other
+10:5410 分鐘 54 秒rather than rebuilding i can simply clone make my changes and push the app out to the new user community
+11:0311 分鐘 3 秒you're also seeing application permissions now this is covered in more detail in another video but here i can specify
+11:1011 分鐘 10 秒who can design against based on users or groups
+11:1711 分鐘 17 秒application owners again by users and groups who can run this application in other
+11:2611 分鐘 26 秒words who would see this application in their work center and have the ability to use the app and then of course report viewers who
+11:3511 分鐘 35 秒can see the data that's captured by this application
+11:4211 分鐘 42 秒okay this concludes the content for the know your application builder ide video thank you so much for watching until
+11:4911 分鐘 49 秒next time
+
+與影片時間同步

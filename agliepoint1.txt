@@ -1,0 +1,272 @@
+hello and welcome to the agile Point version 8 platform overview over the next few moments we'll get you familiar with all of the modules
+0:2020 秒in the agile Point platform and how they contribute to our vision of mass Enterprise automation at large scale
+0:3030 秒now getting started what you're seeing on screen is the agileo homepage note that this is what comes shipped with the product off the shelf
+0:3838 秒and can be completely replaced with your own user experience using the page builder
+0:4545 秒module so first let's start with a module that touches every user in the organization and that is the work
+0:5252 秒center now the work center is where I receive tasks and manage them as well as launch new submissions and gain insight
+1:001 分鐘into my own productivity so as you're seeing on screen here I have an overview of all of the tasks that are currently allocated
+1:071 分鐘 7 秒to me as well as their status you're seeing a field here for estimated time to complete based on my
+1:151 分鐘 15 秒past performance as well as a summary view showing me when these tasks will be coming due both this week as well as
+1:231 分鐘 23 秒next week down below I can manage my day with planned tasks
+1:311 分鐘 31 秒by clicking into the plus icon here as you can see I can remind myself to attend to an agile Point
+1:381 分鐘 38 秒task to do so I would select the open task from my task
+1:441 分鐘 44 秒list provide a descriptive name and then the date and time where I
+1:531 分鐘 53 秒need to complete the activity similarly I could remind myself to launch a new request or submission in
+2:022 分鐘 2 秒this case here from the drop- down list I would select a particular application that I'd like to
+2:092 分鐘 9 秒initiate or I can simply leave a note to myself the next piece that we'll touch
+2:172 分鐘 17 秒on here is the watch list now the watch list enables me to pin VIP processes here to my home screen so that I can
+2:242 分鐘 24 秒follow along as these processes execute now you'll notice that I have two processes currently pinned to the
+2:322 分鐘 32 秒watch list and let's take a look at the first one as an example so for any watch list item here
+2:392 分鐘 39 秒I can view the process in real time this is going to show me where the process is and its execution in this case here
+2:462 分鐘 46 秒you'll notice that it's completed for any one of these I can drill into the task and understand who
+2:552 分鐘 55 秒the participants were the relevant dates when the task was started started completed or
+3:023 分鐘 2 秒due as well as who has done the work in addition to the process viewer
+3:113 分鐘 11 秒you'll notice I have a second option here to view all of the data captured by this application at a given point in time again going back to the same
+3:193 分鐘 19 秒example here this is a completed process instance but in your case this may be a workflow that is mid-flight in which
+3:273 分鐘 27 秒case we'll see all of the data that's been captured at that particular point in
+3:353 分鐘 35 秒time so before we move on from the watch list here let's click into the gear icon and we can add other processes to our watch
+3:433 分鐘 43 秒list as you're seeing here this is my current watch list and I can scroll through the list or search for currently
+3:513 分鐘 51 秒active process instances and add them as appropriate
+4:064 分鐘 6 秒scrolling down here you're going to see a list of frequently used applications recent tasks as well as
+4:134 分鐘 13 秒recent requests in other words these are recently started workflow instances now similar to what you saw on
+4:214 分鐘 21 秒the watch list I can view the process in real time I can view all of the data captured by the application at this point in time
+4:304 分鐘 30 秒and a new addition geared towards reducing data entry sorts of Errors is the ability to clone this request
+4:374 分鐘 37 秒particularly handy if you're submitting similar sorts of workflow instances with very similar data you can easily use
+4:444 分鐘 44 秒this to copy a prior submission next let's move into the inbox here so this is where our user
+4:534 分鐘 53 秒would log in in the morning and take a look at all of the work items that are currently assigned to them and give them numerous ways to prioritize that work
+5:025 分鐘 2 秒list so you're seeing here my tasks are categorized based on status I have a number that are currently
+5:105 分鐘 10 秒overdue zero that are currently assigned to me and two of which that are in a new state in other words these tasks have
+5:185 分鐘 18 秒been assigned to a group of users and if I have the availability I can simply drag it into my bucket to take assignment of that work
+5:275 分鐘 27 秒item on the other hand if I get occup had no longer have time to work on this particular task I can drag it out of my
+5:355 分鐘 35 秒work CU and release it back to my queue so that my colleagues can pick it up now we're getting a number of tasks
+5:445 分鐘 44 秒here on screen more so than we might want to look through manually so Alo provides me lots of search capabilities
+5:515 分鐘 51 秒based on task name application name as an example with various views for the various roles you'll see across the
+5:585 分鐘 58 秒organization now my default task view is my tasks but if I'm a team leader department head and
+6:066 分鐘 6 秒level manager for instance I have various views that allow me to follow along with my team's work
+6:146 分鐘 14 秒list for those coming from version 7 or prior versions of agile point we do also have a grid view available and give you
+6:216 分鐘 21 秒the ability to easily toggle between the two experiences moving on to processes here
+6:296 分鐘 29 秒I'll have insight into items that I've worked on in the past so here I can look through the list
+6:366 分鐘 36 秒manually similarly can search by process name and filter my results based on various Criterion for instance is this a process
+6:466 分鐘 46 秒that I started or simply something that I've worked on in the past the same views that we showed you just a moment
+6:536 分鐘 53 秒back and then of course filter by status of the process instance
+7:017 分鐘 1 秒now for any one of these I can take actions against these particular processes as you saw just a few moments back I have a process viewer again
+7:107 分鐘 10 秒showing me in real time where the workflow is and its execution and who the task is currently assigned
+7:237 分鐘 23 秒to if I have permission I can cancel the process again the ability to view the data captured by the application and
+7:327 分鐘 32 秒behind the ellipses additional options adding this to the watch list or cloning the request for a new
+7:447 分鐘 44 秒submission next let's spend a few moments looking at my applications so what this is showing me here are applications that I have
+7:517 分鐘 51 秒permission to initiate and as you're seeing on screen a number of views one for frequently used applications which
+7:597 分鐘 59 秒will constantly evolve based on my usage patterns and then of course a list of all applications that I have permission
+8:098 分鐘 9 秒to as you've seen previously search grouping and filtering capabilities mean that even as my application count
+8:178 分鐘 17 秒increases I can always easily find the app that I'm after now there's a couple of other
+8:258 分鐘 25 秒items here that I'll mention briefly things like delegations if I'm going out of the office office I'd like to send my tasks to a colleague for a specified period of
+8:338 分鐘 33 秒time links to external resources and applications and then of course user productivity
+8:418 分鐘 41 秒statistics now this helps me visualize my own output as you can see here I have a quick overview of the tasks that are
+8:488 分鐘 48 秒currently allocated to me by status as well as insights into how quickly those tasks are
+8:568 分鐘 56 秒completing you'll notice that I have similar levels of insight at the process layer Again by status and again process
+9:049 分鐘 4 秒turnover giving me a good idea of where opportunities for process Improvement might
+9:119 分鐘 11 秒exist now as we mentioned you don't need to use agile points out of the box experience in fact one of the main drivers for a platform like agile point
+9:209 分鐘 20 秒is personalizing the look and feel and functionality per your organization's requirements so here's an example of a
+9:279 分鐘 27 秒custom page built with agile points page Builder exclusively via drag and drop as you're seeing on this page here
+9:359 分鐘 35 秒I have various sorts of resources and each of these buttons could be various agileo applications or
+9:429 分鐘 42 秒components things like the work center a report or a process or form based
+9:499 分鐘 49 秒application not only is this a great way to completely Rebrand the agop point experience but great to bring together
+9:569 分鐘 56 秒all of the agop point modules into a single place for departments or teams or projects as an
+10:0510 分鐘 5 秒example now that page was a little more functional I'd like to give you another example here just to give you a sense of what's possible using a drag and drop
+10:1310 分鐘 13 秒Page Builder and as you can see here right getting much closer to that consumer grade
+10:1910 分鐘 19 秒experience entirely via point and click now beyond the page builder I can always consume agile Point components
+10:2810 分鐘 28 秒from within the portals of of my choosing what you're seeing on screen here is the agile Point task management component the work center natively
+10:3710 分鐘 37 秒embedded within various Business Systems in this case Salesforce SharePoint as an example but
+10:4610 分鐘 46 秒we've done this for more than 50 platforms over the years right without limitation PHP JSP or ASP sorts of
+10:5310 分鐘 53 秒portals Drupal WordPress sap you name it so with that we're going to shift gears
+11:0211 分鐘 2 秒out of the end user side of things and we're going to take a look at the application design components available within agileo so one of the foundational
+11:1111 分鐘 11 秒elements in agileo is what we call data entity so you can think of this as a citizen developer oriented data designer
+11:2011 分鐘 20 秒rather than have your end users design their tables in SQL Server management Studio I can always design them here via
+11:2611 分鐘 26 秒pointand click so with that data entity is actually comprised of two components the first of
+11:3411 分鐘 34 秒which are entities themselves you can think of these as tables the other side of this product
+11:4111 分鐘 41 秒are pick lists you can think of this as a standard set of values for drop-down lists or in database terminology in
+11:4911 分鐘 49 秒numerated values now within agile point we're going to give you a generous allotment of outof the-box entities for common
+11:5911 分鐘 59 秒business business objects here as an example you're seeing I have an object for cases within this object I have various
+12:0812 分鐘 8 秒Fields things like the account name that the case belongs to case number case owner contact details as an
+12:1712 分鐘 17 秒example and all of these can be easily built out via point and click so the process that I might follow
+12:2412 分鐘 24 秒to add a new column is first categorize this column here seeing here a variety of column types Each of which have their
+12:3212 分鐘 32 秒own validation and easily configurable properties so for instance if I wanted to add an alternate phone number I would
+12:4012 分鐘 40 秒select the phone category I would give it a display name an internal name gets generated as a
+12:4712 分鐘 47 秒result and then I have field specific configuration properties now just like any other
+12:5712 分鐘 57 秒database I can always create relationship shs I can easily view the data associated with the
+13:0313 分鐘 3 秒table manage granular permissions see everywhere this table is used in an application and even view the
+13:1213 分鐘 12 秒audit Trail for this table now if we go back to the home screen here I will point out that one of
+13:2013 分鐘 20 秒the new additions in agileo version 8 has been the ability to automatically create tables based on Excel sheet
+13:2813 分鐘 28 秒Imports so as an example if I wanted to automatically create a table I would click on import
+13:3513 分鐘 35 秒entity and as you can see here I can create an entity based on various file formats the new addition in version 8 is
+13:4313 分鐘 43 秒to create via Excel sheet so here I have some brief descriptions and instructions for creating these tables I would select my
+13:5113 分鐘 51 秒file and then click import if you'd like to see more on this we do have a detailed discussion on this topic I and the Build Your First Data
+14:0014 分鐘entity video so be sure to check that out if you'd like to see more on this feature okay so that concludes data
+14:0914 分鐘 9 秒entity and just keep in mind this is primarily citizen developer oriented right it is not a required element to
+14:1614 分鐘 16 秒use as a part of your applications and in fact in the next few moments you're going to see a deeper discussion on agile points very deep integration
+14:2614 分鐘 26 秒framework before we get to that point let's walk through through some of the first few steps of building a new application so here with citizen
+14:3414 分鐘 34 秒development in mind we've implemented a checklist or questionnaire style dialogue so agile point is going to ask
+14:4214 分鐘 42 秒me a series of questions about my application and it's going to configure it accordingly so the first question I'm
+14:5014 分鐘 50 秒asked here is what sort of application am I building there's discussion here around the various types of applications
+14:5714 分鐘 57 秒but it essentially amounts to do I require workflow approvals or notifications in that case we would go
+15:0415 分鐘 4 秒with process-based app if I wanted to create a survey a checklist or simply have an interface on
+15:1215 分鐘 12 秒top of some backend data source for crud operations then I would go with form based
+15:2015 分鐘 20 秒app so we'll give my app a name you'll notice here under language I
+15:3015 分鐘 30 秒can select my preferred language in which I would like to design the application which is distinct from creating multi lingual
+15:3815 分鐘 38 秒apps I'll drop my application into a
+15:4915 分鐘 49 秒category I'll give my process model a name here I can optionally input a
+15:5815 分鐘 58 秒description but my next major decision Point here is how does this application initiate so you're seeing a number of
+16:0616 分鐘 6 秒options here on screen and additional trigger types can always be created as a part of agile Point's extension
+16:1316 分鐘 13 秒framework but here you're seeing eforms as our default option this essentially means that when a user opens up a form they enter data
+16:2216 分鐘 22 秒and click submit that that starts the business process I don't need to use agile points form techn technology in fact I can
+16:3016 分鐘 30 秒always use my own UI and simply integrate with agile point from an API perspective to drive the
+16:3716 分鐘 37 秒workflow a number of automated triggers such as inbound email file drop database
+16:4416 分鐘 44 秒insert calling an API as a part of a process integration between parent and child processes as well as dedicated
+16:5316 分鐘 53 秒event support for SharePoint Salesforce and InfoPath
+17:0717 分鐘 7 秒next agile point will ask me where will I store the data as a part of this application and as you're seeing here on screen I have a variety of
+17:1517 分鐘 15 秒options depending on my skill set citizen developers may find it easier to take existing data and simply
+17:2417 分鐘 24 秒build the application around it in which case I might choose data entity databases like Oracle SQL server
+17:3317 分鐘 33 秒and MySQL standard and custom Salesforce objects SharePoint lists or based on an
+17:4217 分鐘 42 秒Excel sheet whereas professional developers May opt to go with a blank data source and simply build the data model on the
+17:5117 分鐘 51 秒Fly where five Fields might come from sap another five from Salesforce and yet another five from a database
+18:0018 分鐘for our example here let's use one of agile Point's built-in data entity tables I'll give my data source a name
+18:0818 分鐘 8 秒here and to make my custom table easier to find I'm going to filter based on custom entities
+18:1618 分鐘 16 秒only we'll select my table as you can see here agile point is automatically going to synchronize the
+18:2318 分鐘 23 秒data with the application under Fields I can unselect certain
+18:3118 分鐘 31 秒Fields if I don't need them and then can bring over all related child
+18:4218 分鐘 42 秒tables now as a last step and all of these elements can always be added later on or as needed we've brought together a
+18:5118 分鐘 51 秒list of all of the common application artifacts that we tend to see so by that I mean creating access tokens or
+18:5918 分鐘 59 秒connection strings to external systems if I'm uploading files as a part of an application where will those files
+19:0819 分鐘 8 秒live implementing stylesheets groups and roles images and
+19:1719 分鐘 17 秒JavaScript and then lastly before we begin building our application I have the users for this particular application
+19:2919 分鐘 29 秒so over the next few moments agile point is going to begin assembling my application and it's going to drop me into the application
+19:4119 分鐘 41 秒designer now we'll spend a few more moments in the process designer here in just a moment but to show you how to get started from the left hand side I'm
+19:5019 分鐘 50 秒going to select my start Task a start Task is the first step in any business process and provides the user inter to
+19:5919 分鐘 59 秒initiate the workflow now here I'm going to start from a completely blank canvas but do keep in mind that agile Point promotes
+20:0720 分鐘 7 秒reusability at all levels of the application so I can always reuse elements that I've built in another app
+20:1520 分鐘 15 秒for my current application so what agile point is doing
+20:2520 分鐘 25 秒now is it's dropping me into the UI design right again we'll walk through all of the elements at your disposal in just a
+20:3420 分鐘 34 秒moment but wanted to highlight from a citizen developers perspective the ease of use and just how easily I can get
+20:4220 分鐘 42 秒started on the right hand side I've Associated tables with my application in my case I chose data entity but it's
+20:4920 分鐘 49 秒going to have a very similar experience if you'd like to build an app around a database table SharePoint list or
+20:5620 分鐘 56 秒Salesforce object of some of some type type so now as a citizen developer I just arranged the various
+21:0421 分鐘 4 秒fields on the right place on my form and have complete control over the
+21:1221 分鐘 12 秒layout of this form but you'll notice here that simply via point and click I can rearrange I
+21:1921 分鐘 19 秒can span columns across multiple sections right again all via point and click what's more you're noticing these
+21:2821 分鐘 28 秒little blue database icons in each field this essentially shows that I've created a databound relationship between
+21:3621 分鐘 36 秒my form and whatever my external data source happens to be so that as a citizen developer I just worry about laying out the form and agile Point
+21:4521 分鐘 45 秒wires up all of the data Integrations on my behalf now I won't drag over all of the fields here but I do want to highlight
+21:5421 分鐘 54 秒the intelligence as I'm dropping these fields onto my form you'll notice here that in dropping the child table agile
+22:0122 分鐘 1 秒Point has recognized that this is going to be a repeating section so as a result gives me a choice of repeating controls
+22:0922 分鐘 9 秒sub form grid and comments so I can span this sub form all
+22:1622 分鐘 16 秒the way across can add a few more columns and then begin designing my sub
+22:2422 分鐘 24 秒form in the same manner now not only that but for all of the other controls that I've previously
+22:3122 分鐘 31 秒dropped agile Point has suggested the appropriate control for the data type by that I mean when I dragged over the
+22:3822 分鐘 38 秒phone field agile point is suggesting the phone control to use as a
+22:4422 分鐘 44 秒result similarly here with the email control okay so I wanted to get us
+22:5422 分鐘 54 秒started here in building an application let's take a few moments and transition into an application that's a little more built
+23:0323 分鐘 3 秒out so I've switched gears here into another application as you're seeing here this deals with requesting IT
+23:1123 分鐘 11 秒services and let's just take a bigger look at the application here so what you're seeing on screen are
+23:1923 分鐘 19 秒a combination of human activities as well as system activities some of these are inserting
+23:2823 分鐘 28 秒records into a database While others are called conditions and control the process
+23:3523 分鐘 35 秒flow so how did we get to this point right well one of the strength areas of agile point is having a very large
+23:4223 分鐘 42 秒integration and activity framework by that I mean here I have more than 70 systems that are pre-integrated into the
+23:5023 分鐘 50 秒platform with very deep integration in each and across all of the systems that you're seeing here on screen there are more than 700 easily configurable
+23:5923 分鐘 59 秒workflow activities so let's take a look at the list here you're seeing things like active directory RPA from box RPA from
+24:0824 分鐘 8 秒uipath Blue prism as an example document Management Services
+24:1524 分鐘 15 秒databases CRM and Erp and for each of these right as we
+24:2524 分鐘 25 秒mentioned the integration is quite deep meaning that I don't need to understand the complexities of these underlying systems I simply need to know how to
+24:3324 分鐘 33 秒drag and drop and configure so by that I mean right let's take Salesforce as an
+24:4324 分鐘 43 秒example you're seeing here I have an activity for creating a record so let's walk through the
+24:5124 分鐘 51 秒configuration process here and though my example is Salesforce it's going to follow the exact same process for any
+24:5824 分鐘 58 秒the 70 systems that agile Point supports so my first step here is how am
+25:0525 分鐘 5 秒I connecting to my external system agile Point relies on the concept of access tokens which your it Department May set
+25:1325 分鐘 13 秒up on your behalf once I've selected my connection string you're seeing here a list of all
+25:2025 分鐘 20 秒potential entities both standard and custom objects that I can create as a part of a workflow so in our case here let's
+25:2825 分鐘 28 秒create a lead and you're seeing here a request mapping screen so in this case here as a
+25:3625 分鐘 36 秒developer I simply pass the data from the agile Point side to my external system in this case
+25:4425 分鐘 44 秒sales force so if I were to scroll down here
+25:5925 分鐘 59 秒I would say I want to pass the employee name to the name
+26:1226 分鐘 12 秒field and we'll take the phone to the phone field and I would follow this exact same process for as many fields as
+26:2026 分鐘 20 秒applicable okay so with that being said let's take
+26:3126 分鐘 31 秒a look at the UI designer so here you're seeing a responsive HTML 5 and J queries forms
+26:3926 分鐘 39 秒technology right with lots of pre-built elements to easily design my user interfaces on the left hand side I have
+26:4626 分鐘 46 秒my toolbox here I have more than 65 easily configurable UI elements Each of which have their own validation built in
+26:5626 分鐘 56 秒so here you're going to see examples of things like text boxes headings checkboxes and file upload
+27:0327 分鐘 3 秒controls date and time currency the repeating element right the sub form that I showed you just a few
+27:1127 分鐘 11 秒moments back as well as Auto suggest now under Advanced controls they
+27:1827 分鐘 18 秒become a little more specific right so things like phone numbers where I can validate for a local phone number us-based phone number or international
+27:2727 分鐘 27 秒format email and social security credit card details as well as lookups to external
+27:3627 分鐘 36 秒systems and then lastly under telic you're seeing here a number of telic controls that we've oam and brought into
+27:4327 分鐘 43 秒the platform at no cost now this form here is primarily out of the box but I can always apply my own
+27:5127 分鐘 51 秒CSS per form or for the entire application similarly here with JavaScript scrip per form or for the
+27:5927 分鐘 59 秒entire app and I have built in testing tools so that I can test my Integrations and logic without having to deploy
+28:0928 分鐘 9 秒anything as an example here you're seeing under my service request information section a variety of dropdowns and I'm expecting a cascading
+28:1728 分鐘 17 秒sort of effect where the selections made in one Field Drive the available options in the second
+28:2628 分鐘 26 秒field so let's select access request as an example and you'll notice here that a new field has become available when I
+28:3428 分鐘 34 秒select access my next question is does this pertain to a new user or an existing user if I change the values here in that
+28:4328 分鐘 43 秒first dropdown again you'll notice that my form is dynamic and is displaying the appropriate results in the second drop-down
+28:5428 分鐘 54 秒list now how did we get to that point well agile Point Ena logic at multiple levels of the application everything
+29:0129 分鐘 1 秒from the individual field level the form level or the entire app itself regardless I build my Logic the exact
+29:0929 分鐘 9 秒same way at the top here I have my condition so I've dragged fields for my
+29:1629 分鐘 16 秒form implemented an operator and then the value that I'm expecting and then when that condition
+29:2229 分鐘 22 秒is met what sorts of actions am I taking so here you're seeing things like showing and hiding controls but I can
+29:3029 分鐘 30 秒also execute scripts and methods set values like dates and field values Mark something as mandatory or
+29:3829 分鐘 38 秒trigger a lookup to an external system and then lastly here before we
+29:4429 分鐘 44 秒move on though this is a responsive UI designer I do have device and orientation specific layout tooling this
+29:5329 分鐘 53 秒is often going to be an unnecessary step as the responsive nature major takes care of most of these elements but say
+30:0130 分鐘 1 秒for instance if I have a mobile device and portrait I might want to move an important field up to the top or
+30:0730 分鐘 7 秒otherwise rearrange and optimize the layout as I'm designing my applications
+30:1530 分鐘 15 秒I have full support for the software development life cycle things like check in and check out validation full
+30:2230 分鐘 22 秒versioning support the ability to declare milestones and one C click publish to
+30:2930 分鐘 29 秒move the application from Dev to test next that brings us to a new a huge
+30:3830 分鐘 38 秒new addition in AEL Point version 8 which Builds on the tabular reporting of Prior versions and that is the analytics
+30:4630 分鐘 46 秒module with enhanced dashboarding and analytics capabilities now here you're going to
+30:5230 分鐘 52 秒see a few categories of reports around operation intelligence business activity
+31:0131 分鐘 1 秒monitoring as well as a generous allocation of sample reports now let's walk through a few report
+31:0931 分鐘 9 秒examples here you're seeing a combination of multiple charts shown on one screen here bar chart heat map as
+31:1831 分鐘 18 秒well as a pivot table tabular based reports with
+31:2431 分鐘 24 秒filtering and drill down capabilities as well as of course
+31:3631 分鐘 36 秒dashboards okay so that brings us to the management side of the platform otherwise known as the manage center
+31:4331 分鐘 43 秒from within here I can view audit Trail I can understand platform performance as well as health configure web Hooks and
+31:5131 分鐘 51 秒secure access for users groups and roles so let's take a look at some of our running applications here I'm going
+31:5931 分鐘 59 秒to click into runtime management and this is how I manage the all of the running applications currently in flight across my agile Point
+32:0832 分鐘 8 秒environment so let's bring up one application as an example I have an invoice processing use case that should have some running
+32:1832 分鐘 18 秒instances okay so my most recent instance here is at the top and if I click into this process
+32:2532 分鐘 25 秒instance here you'll notice that I can see high level details about the application show in real time where the
+32:3332 分鐘 33 秒process is and its execution as well as audit Trails for system activities human
+32:4132 分鐘 41 秒tasks as well as the event log I can also view all of the data
+32:4932 分鐘 49 秒captured by the application as well as see any interrelated processes tied to this application
+32:5832 分鐘 58 秒now from here I can manage this running instance pause cancel as well as two elements that I'd
+33:0633 分鐘 6 秒like to dive into a little more deeply the first of which here is a capability called change flow and is really a highly unique aspect of the
+33:1533 分鐘 15 秒agile Point platform this enables me to easily address business level exceptions that may arise in my business process despite
+33:2433 分鐘 24 秒extensive planning now in this case here as an example being an invoice processing use case perhaps it's close to the end of
+33:3233 分鐘 32 秒the month we need to close the books but need to maintain a couple of key levels of compliance all right so in other words we need to accelerate the time
+33:4133 分鐘 41 秒frame for approving this workflow and don't have time for the entire process to run its course so here as an example I would
+33:5033 分鐘 50 秒select where I am in my process today and where I'd like to jump the workflow to this could also be a split or a merge
+33:5933 分鐘 59 秒of my process in other words if I have the associated permission I can completely override the default process
+34:2134 分鐘 21 秒Behavior and the last piece that I'll touch on here as it relates to managing running instances deals with migration
+34:2834 分鐘 28 秒of a process from one version to another now in my case here I may have new compliance regulations that are that
+34:3634 分鐘 36 秒need to be applied to my application but I have a number of running instances that do not currently include those
+34:4334 分鐘 43 秒controls so in that sort of scenario I would suspend the process as I just have and then as you see here I have a button
+34:5134 分鐘 51 秒to migrate the process instance so in other words this is taking a currently live ver version of
+34:5834 分鐘 58 秒the application and while running migrate it to a newer or older version of the process in my case here I don't
+35:0535 分鐘 5 秒have any newer versions so I'm going to select the immediately prior version of this app agile point is taking me here to a
+35:1435 分鐘 14 秒screen where I can validate any differences in my application and then simply click
+35:2235 分鐘 22 秒migrate now that would migrate this app on a one-off basis for one individual ual process instance if I wanted to
+35:3035 分鐘 30 秒apply this change in bulk I would do this migration once click save as an instruction file and then have those
+35:3735 分鐘 37 秒changes affected in bulk across multiple process
+35:4735 分鐘 47 秒instances okay so that brings us to the page builder so as you're seeing here right I can easily create pages with menus
+35:5535 分鐘 55 秒simply via point and click and can use this module to completely replace the default agile Point experience so just to give you a sense
+36:0436 分鐘 4 秒of how this would work I'm going to add a widget to this row and you'll find that widgets come in
+36:1036 分鐘 10 秒various categories under content I have buttons which I might tie to a URL or launching of an agile Point process
+36:1936 分鐘 19 秒report or task list the ability to embed eforms provide headings hyperlink
+36:2836 分鐘 28 秒Rich Text embed the work center or an if frame under media any sort of audio
+36:3736 分鐘 37 秒video or image various card layouts the layout of the page
+36:4436 分鐘 44 秒itself and then of course embedding reports from agile points analytics
+36:5136 分鐘 51 秒Center and then lastly here is agile points Marketplace this gives us more than 60 pre-built application templates
+36:5936 分鐘 59 秒layouts and themes that I can use to begin automating my business processes across the entire
+37:0637 分鐘 6 秒organization now you're seeing on the left hand side various filtering options based on application type or
+37:1337 分鐘 13 秒category so here I can go into a given area of my business select covid-19 response sorts
+37:2137 分鐘 21 秒of applications and in clicking into any one of them you'll see a brief description of the the application
+37:2837 分鐘 28 秒itself screenshots of the application at runtime as well as a brief video that discusses the functionality of the
+37:4037 分鐘 40 秒application okay that concludes the content for this video thank you so much for watching until next time

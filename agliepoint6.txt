@@ -1,0 +1,116 @@
+hello and welcome to the process designer overview in this video we'll familiarize you with all of the powerful process Automation and Process
+0:2020 秒Management capabilities within aop points app builder to get started let's select the
+0:2626 秒app builder module from the portal menu this brings us to the app builder
+0:3737 秒homepage and as you can see on the left hand side I have all of the applications that I have permission to design
+0:4545 秒against so in selecting an application you'll see that there are a number of application artifacts things like
+0:5252 秒processes under shared resources you'll find connection strings file upload repositories CSS and JavaScript
+1:001 分鐘SCP but for now let's click into the process
+1:101 分鐘 10 秒model okay now before we look into the specifics of this application let's take a look at all of the tools at your
+1:171 分鐘 17 秒disposal to create endtoend automation at large scale on the left hand side we have the various agile Point stencils here you'll
+1:261 分鐘 26 秒find Integrations into more than 70 clouded on premisis Business Systems common process elements like email
+1:331 分鐘 33 秒notifications or conditions and many other features in clicking the plus icon here
+1:411 分鐘 41 秒you'll see the 70 Integrations that agile Point supports with more than 700 total easily configurable workflow
+1:481 分鐘 48 秒activities on this list you'll find things like active directory which is going to be very handy in on or offboarding sorts of
+1:561 分鐘 56 秒scenarios agile points own apis have been exposed as easily configurable
+2:032 分鐘 3 秒activities databases digital signature and document automation document Management Systems
+2:122 分鐘 12 秒like Dropbox Google Drive SharePoint or box blockchain
+2:202 分鐘 20 秒jira Azure ad machine learning chatbots and many RPA providers power automate
+2:272 分鐘 27 秒blue prism and uipath now as we mentioned right there's quite deep integration across all of these as
+2:352 分鐘 35 秒well taking Salesforce here as an example you're going to find more than 30 easily configurable activities meaning that I can interact and write
+2:442 分鐘 44 秒data to Salesforce without having to understand the complexities of that underlying system so to give you a sense of how
+2:522 分鐘 52 秒this might work I'm going to take the create record activity and drop it onto my canvas
+2:592 分鐘 59 秒going to give this activity a name here in our case we're going to create a lead now first I'm going to select how
+3:083 分鐘 8 秒do I want to connect to Salesforce and in this case here we're selecting an access token that my it department has
+3:153 分鐘 15 秒created on my behalf and then next I'm going to select the type of object that I want to create
+3:223 分鐘 22 秒on the Salesforce side now in Salesforce there is both out of the boox objects as well as custom objects it's going to work the ex exact same way for both of
+3:303 分鐘 30 秒those types okay so I've selected that I want to create a lead and what I'll do here
+3:383 分鐘 38 秒is simply pass data from agile point over to Salesforce so on the left hand side I
+3:453 分鐘 45 秒have my agileo data fields and on the right hand side I have Salesforce so what I'm going to do here
+3:533 分鐘 53 秒is I'm just going to map a few of these fields and take the company name and drop that onto company
+4:044 分鐘 4 秒the submitted by field is going to go to the name field as an
+4:134 分鐘 13 秒example and email address to email now I'm not going to map all of these fields but as you can see here I
+4:214 分鐘 21 秒simply take the agile Point data and map that over to the appropriate node on the Salesforce side making it very easy to
+4:294 分鐘 29 秒pass data between different systems so next let's spend a few
+4:384 分鐘 38 秒moments looking at the process that you're seeing here on screen and as you can see this process consists of a number of human
+4:464 分鐘 46 秒activities as well as system activities like sending an email or creating an invoice so let's take a look at how
+4:554 分鐘 55 秒these activities are configured so first we're going to go into configure
+5:025 分鐘 2 秒activity this is high level details about the activity itself the first step being here to associate a user interface
+5:115 分鐘 11 秒with this step in our business process as you can see here we have a UI that's been selected and then we'll simply navigate
+5:195 分鐘 19 秒through the wizard step by step to configure our desired Behavior you're seeing here the next
+5:265 分鐘 26 秒step is to implement a display name this dis play name is what's will show up in my task list as well as my mobile device
+5:345 分鐘 34 秒and it should be descriptive to the user indicating the sort of work that they should be indicating the sort of work they
+5:425 分鐘 42 秒should be doing as you can see here I have a time to complete field the amount of time this task
+5:495 分鐘 49 秒should take to complete can be specified on various time scales from minutes or seconds all the way up to the
+5:575 分鐘 57 秒month I can give this task a default priority level and of course escalate this to a higher priority based on various
+6:056 分鐘 5 秒factors and with one click I can make this task offline available meaning that even if I don't have an internet connection I can still work with my
+6:146 分鐘 14 秒tasks while offline as you can see here the next
+6:236 分鐘 23 秒step is the participant in other words who is going to do the work for this particular task and there are different ways that we can specify users groups or
+6:326 分鐘 32 秒roles to do the work for one as you can see here we can hardcode a group a role or a
+6:396 分鐘 39 秒user on the other hand we can certainly assign these tasks a lot more dynamically by that I mean maybe I want
+6:476 分鐘 47 秒to assign it based on some element on my form now this is an invoice processing use case so perhaps there are users who
+6:566 分鐘 56 秒are responsible for approving invoices from a certain company or of a are of a certain purchase type for
+7:047 分鐘 4 秒instance under data source I can do a lookup against some table and assign tasks dynamically in that manner as well
+7:117 分鐘 11 秒as based on any system data or Global
+7:217 分鐘 21 秒variables in the event of bringing unregistered users into the process you're seeing here we have the ability to enable anonymous
+7:307 分鐘 30 秒access and then lastly any notifications that should go along with this particular
+7:427 分鐘 42 秒task okay so having covered the task configuration let's spend a few moments talking about how we control our process
+7:497 分鐘 49 秒level logic in agile Point terminology this is known as a condition so let's expand out one of our
+7:577 分鐘 57 秒conditions here and as you can see there are two potential outcomes in this scenario here
+8:048 分鐘 4 秒I have no limitations in terms of the number of conditions that I place and to check how this has been
+8:128 分鐘 12 秒configured here as you can see there is an if scenario so in this case if the routing
+8:198 分鐘 19 秒decision does not equal to return to submitter go left versus right so how did we get to that point well if I
+8:288 分鐘 28 秒expand out application dat data I know that routing decision was a form element so I would find that under form
+8:368 分鐘 36 秒data and I'd expand that out here you see routing decision so if
+8:438 分鐘 43 秒I were building this condition for the first time I would click routing decision and drag it under the if
+8:528 分鐘 52 秒box next I would look at my operators so as you can see here there are various categories string Boolean in date time
+9:009 分鐘or number and I would simply select the appropriate operator for my use
+9:109 分鐘 10 秒case and then the value so in this case if the routing decision does not equal to return to submitter go left versus go
+9:189 分鐘 18 秒right in the process so that's how we build our conditions if we go back to our UI here
+9:279 分鐘 27 秒and pull up our form
+9:379 分鐘 37 秒we'll find the routing decision field under the routing decision
+9:469 分鐘 46 秒tab so as you can see here's that return to submitter value that we're evaluating as a part of our
+9:589 分鐘 58 秒condition okay so going back to our process designer here the last piece that I'll explain as a part of this video is the menu that you're seeing
+10:0510 分鐘 5 秒here at the top so the first option uh is the ability to save or save and check in your work all right so here as I'm
+10:1410 分鐘 14 秒making changes and adding functionality I want to commit these changes to the database and if I'm ready to release the application if I'm done for the day in
+10:2210 分鐘 22 秒other words and I want to enable a colleague to sign in and do their work I would select save and check in
+10:3010 分鐘 30 秒I can also save this process model as an image as xpdl or save the process
+10:3710 分鐘 37 秒Json now as I'm working on the application I may make a mistake in which case I have undo and redo
+10:4510 分鐘 45 秒options the ability to cut copy and paste any of the activities that you're seeing here on
+10:5210 分鐘 52 秒screen I can delete an activity as I'm building the application I'm often going to want to clean up my
+11:0011 分鐘process model and make it easier to read so in this case here if I wanted to arrange activities a little more nicely
+11:0911 分鐘 9 秒I would draw a box around the activities then as you can see here right I have different orientation or different alignment options so from a
+11:1811 分鐘 18 秒horizontal perspective that's going to arrange things horizontally right and similarly if I draw a box around two other activities I
+11:2711 分鐘 27 秒can align them vertically if I'd like to take a closer look into my process model I have the ability to
+11:3611 分鐘 36 秒zoom in and zoom out return to the standard View and model size allows me to take
+11:4411 分鐘 44 秒stock of the entire application from end to end you'll see here we have a validate
+11:5111 分鐘 51 秒button this is going to check for errors in our application ensure that there are no circular references or name clashes in fields and and generally ensure that
+12:0012 分鐘our application will run by selecting an activity and then clicking on
+12:0912 分鐘 9 秒properties I can see details about this particular activity how long is it expected
+12:1712 分鐘 17 秒duration which which work is being done here any notifications
+12:2412 分鐘 24 秒Associated the participants auditing level and many other
+12:3512 分鐘 35 秒details under form data you're going to see the process data Explorer as we've just walked through when we were talking about conditions so this is going to
+12:4412 分鐘 44 秒show me all of the UI elements right all of my data points on the form any process level
+12:5212 分鐘 52 秒attributes any external data sources that I've associated with this particular application system data and then Global
+13:0213 分鐘 2 秒variables similarly I can also access all of the forms and make edits and delete if I so desire of course I can
+13:1013 分鐘 10 秒always click into an individual form here and edit it as we saw just a few moments
+13:1713 分鐘 17 秒back from a notifications perspective as you can see here we have various ways to notify someone they have worked to complete the default being email but as
+13:2713 分鐘 27 秒you can see here angel Point does support the the concept of multi- Channel notifications right by that I mean a task notification via SK uh
+13:3413 分鐘 34 秒chatter via Skype Yammer MS SMS for instance and then lastly under the
+13:4313 分鐘 43 秒miscellaneous tab you're seeing things like renaming my tasks perhaps bringing in a naming convention for this particular
+13:5113 分鐘 51 秒process right so if I wanted to make each process instance name unique right what I might do as an example is just
+13:5813 分鐘 58 秒say okay I want to bring in some data from my form I'm to say that want to append the company name
+14:0714 分鐘 7 秒here and then perhaps we'll go into system data uh there should be a process started date there we
+14:1514 分鐘 15 秒go so I can drop process started date is in there as
+14:2314 分鐘 23 秒well offline forms we touched on this in task configuration uh here as you you can see I can instantly make all of the
+14:3114 分鐘 31 秒tasks or just a handful of tasks available in an offline mode as an
+14:3714 分鐘 37 秒example can edit the theme pull up a report of all of the business logic that's been applied or I can generate a
+14:4614 分鐘 46 秒report about the application as a whole so I've just generated that
+14:5414 分鐘 54 秒process model report here I can save it as a PDF or print it for instance agile point is what's known as a self-documenting platform so your
+15:0215 分鐘 2 秒application and your documentation never get out of sync right as I'm making changes to the application here agile point is instantly or in real time
+15:1115 分鐘 11 秒updating the App application documentation down below the process
+15:2015 分鐘 20 秒model I'm going to see all of the details of the various system activities as well as human tasks and so here as
+15:2715 分鐘 27 秒you can see I have my activ any name right in this case here it's a condition and then as you can see right what
+15:3515 分鐘 35 秒condition is being
+15:5015 分鐘 50 秒evaluated and then lastly I have the ability to resize my canvas make this smaller or larger as I require
+16:0016 分鐘okay that concludes the content for this video thank you so much for watching until next time
+

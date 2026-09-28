@@ -1,0 +1,69 @@
+hi there and welcome to building your First Data entity for those of you who aren't familiar data entity is an optional business userfriendly data
+0:1919 秒store where I can easily design tables through pointand click through spreadsheet upload or by using
+0:2626 秒generative AI so let's get started by navigating over to the data entity
+0:3737 秒module and as you can see here I can always click add a new entity to get started
+0:4545 秒optionally I can see all currently built entities and add from here as well so let's get started with adding a new
+0:5353 秒entity start with a display name and as you can see here agile point is
+1:021 分鐘 2 秒going to give me a plural and internal name so let's drop this into a category so first let's give this table
+1:101 分鐘 10 秒a primary key now we'd like this value to have its
+1:191 分鐘 19 秒own unique identifier so as you're seeing here there are a number of options that I can select from and we'll go with a sequence
+1:271 分鐘 27 秒number okay so I'd like to publish this I'd like to be able to move this entity between different
+1:351 分鐘 35 秒environments and now that we finished configuration we can go ahead and click create
+1:431 分鐘 43 秒entity okay so from here we can add a few additional fields to our table so first let's add the customer's
+1:511 分鐘 51 秒name as you can see here I have a number of data types that I can select from and I'm going to go ahead and leave text selected
+2:032 分鐘 3 秒okay let's add another so after the customer's name let's add some contact
+2:102 分鐘 10 秒information so we'll go with an email this will be the customer's
+2:202 分鐘 20 秒email next we'll add their phone number
+2:342 分鐘 34 秒now for physical address we might want a little more real estate on the form so let's go with a type of text
+2:502 分鐘 50 秒area so let's go back and select a text field for their City
+3:023 分鐘 2 秒now for State we want to use an existing pick
+3:123 分鐘 12 秒list now here from the drop down list I can select from existing state uh existing pick lists
+3:353 分鐘 35 秒so now that we've created our parent table let's go ahead and create a child table and relate the two together so I'm going to open up data
+3:443 分鐘 44 秒entity in another Tab and we can create another
+3:523 分鐘 52 秒table this time around we'll call this customer orders
+4:024 分鐘 2 秒so again let's drop this into a category and our and our primary key here will be the
+4:104 分鐘 10 秒order ID and just like last time we're going
+4:174 分鐘 17 秒to want to make this a sequence number so that each record has its own unique identifier okay we'll leave the default
+4:264 分鐘 26 秒settings and go ahead and create our child table okay so now we can add additional fields
+4:354 分鐘 35 秒to our child table and relate the two together all right so the first field we'll want to add here is the date of
+4:424 分鐘 42 秒the order so we'll use a date control order date as you can see here I
+4:534 分鐘 53 秒have various configuration items to provide default values as well as date ranges
+5:005 分鐘okay so we'll add another so for the quantity of products purchased we'll want to go with a numeric
+5:175 分鐘 17 秒field so next let's add a unit price for each product purchased which will be a decimal field
+5:305 分鐘 30 秒for the total amounts purchased we'll also want to go with a decimal
+5:415 分鐘 41 秒field and then finally a description of the items
+5:575 分鐘 57 秒purchased okay so now that we've built out our child table let's go ahead and relate the two together so to create a new relationship
+6:056 分鐘 5 秒you're seeing the relationships tab here at the top of the screen and we'll go ahead and add a new relationship so we're going to call this
+6:136 分鐘 13 秒customer to orders and we'll select our parent entity from the
+6:266 分鐘 26 秒list our parent primary field is going to be the customer ID our child field display name will
+6:346 分鐘 34 秒also be customer ID and now we can save this so now we've successfully related two tables created
+6:436 分鐘 43 秒within data entity in just a matter of moments so as you can see on screen our
+6:526 分鐘 52 秒relationship has now been created and a new capability introduced in Version 9 is the entity relationship diagram where
+7:007 分鐘I can visually understand the relationships between tables and even add additional relationships purely through Visual
+7:097 分鐘 9 秒configuration so to close out this video I'd like to highlight a new feature added to agileo Version 9 software update one and that is creating data
+7:177 分鐘 17 秒entities and pick lists using generative AI so as you can see here from the data entity home screen I have a new Option
+7:247 分鐘 24 秒called generate with AI and over the course of the next moment or so we're going to generate cre an entity as well as pick
+7:367 分鐘 36 秒lists okay so here I'm going to provide a prompt or a description of the table that I'd like to create and agile points generative AI service is going to take
+7:457 分鐘 45 秒it from there okay so as you're seeing on screen
+7:567 分鐘 56 秒here agile Point has suggested a number of columns for my table but don't worry we can always adjust reclassify and add
+8:038 分鐘 3 秒columns as it might be required so let's just scroll through the list and as you can see here the property address has been suggested as a type of pick list
+8:128 分鐘 12 秒and it might make more sense to reclassify that to a text area with the inspector name we can go ahead and make this a text
+8:218 分鐘 21 秒field same thing here with the client name now we might want a way to cop we
+8:288 分鐘 28 秒might want a way to cap apture client contact information so as an example I'm going to go ahead and add a column here by clicking the plus
+8:368 分鐘 36 秒icon we'll call this the client contact and we'll make this a type of
+8:498 分鐘 49 秒email now you're seeing here a number of columns for heating cooling electrical system roof type things of that nature
+8:588 分鐘 58 秒uh we can go ahead and remove those and use an inspection type field with a pick list
+9:119 分鐘 11 秒instead so let's go ahead and add a new field we'll call this the inspection
+9:219 分鐘 21 秒type we'll make this a pick list now notice when I change that to
+9:289 分鐘 28 秒pick list I now have a gear icon where I can configure that pick list now in my case a pick list already exists with the
+9:369 分鐘 36 秒name of inspection type so of course agile point is suggesting that for reuse but I can always create a new pick list
+9:449 分鐘 44 秒as you're seeing here with fresh values okay I'm going to go ahead and
+9:529 分鐘 52 秒remove uh Foundation type siding and then lastly here with the marks field let's go ahead and make
+10:0110 分鐘 1 秒that a text area Okay so with that our data entity
+10:0810 分鐘 8 秒is now complete so let's go ahead and scroll down towards the bottom we'll set a primary key of a sequence number and
+10:1410 分鐘 14 秒this will be our inspection ID as you can see here agile point is
+10:2510 分鐘 25 秒already given it a display name so let's drop it into a category and now our table is ready to
+10:3510 分鐘 35 秒go okay so with that our table is now completed and that's going to conclude the content for this video thank you so
+10:4210 分鐘 42 秒much for watching until next time
+
+與影片時間同步

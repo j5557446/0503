@@ -1,0 +1,54 @@
+hi there and welcome to the know your data entity designer overview video in this video we're going to provide you
+0:1717 秒with a highlevel tour of the data entity module how to access it and some of the common actions in case you're unfamiliar
+0:2626 秒data entity is a visual data designer that is optional in the agile Point platform it's often used in cases where
+0:3434 秒I don't have an existing database or line of business system where I'll store my application data or in cases where
+0:4141 秒the designer might be a citizen developer and can't yet connect to existing databases data entity tables
+0:4848 秒are built visually through point and click or automatically via spreadsheet upload or through using generative
+0:5858 秒AI so first let's take a look at all of the components that comprise the data entity module from my portal menu you're
+1:051 分鐘 5 秒seeing here I have a module called Data
+1:201 分鐘 20 秒entity okay so as you're seeing on screen here when I log into the data entity homepage you're seeing across the top high level information about the
+1:281 分鐘 28 秒number of entities pick lists as well as a breakdown of entities based on published
+1:351 分鐘 35 秒status down below I have recently modified favorite entities and favorite pick lists and across the top I have a
+1:431 分鐘 43 秒variety of buttons to create new data entities taking a look at these buttons across the top you're seeing here I can
+1:511 分鐘 51 秒add a new entity or table as well as a pick list think of a pick list as a way to populate
+1:591 分鐘 59 秒standardized value vales for things like a drop down list my next button shows me options for
+2:062 分鐘 6 秒generating with AI as you can see here I have the same option to generate a table as well as a pick
+2:142 分鐘 14 秒list and then lastly you're seeing here an option to import entities as well as pick lists now this could be importing
+2:222 分鐘 22 秒from another agile Point instance as an example okay so with that being said let's click our first option on the
+2:312 分鐘 31 秒leftand menu which is data entities okay so as you can see here my
+2:392 分鐘 39 秒default view is a card view if I'd like to view these in the form of a grid you can see that option here down
+2:462 分鐘 46 秒below from a search perspective as you can see here I can enter my own custom search string and it's going to retrieve all matching
+2:572 分鐘 57 秒entities so as you can see here customer but note that I can search from a
+3:043 分鐘 4 秒variety of different perspectives I can search by entity Name by category like engineering or by the name of the
+3:123 分鐘 12 秒application that the entity is a part of additional options that you'll find
+3:193 分鐘 19 秒across the top here grouping by category by type as an example by custom or standard
+3:273 分鐘 27 秒entity grouping by application owner grouping by entity
+3:343 分鐘 34 秒owner application name and clear the groupings as a next step I have sorting
+3:423 分鐘 42 秒options so I can sort these by modified date ascending or descending and various filter options so
+3:513 分鐘 51 秒as you can see here by default I have only custom entities filtered but I can easily change that by active or inactive status
+4:004 分鐘as well as by published status and then lastly I can go ahead and see all entities used by a
+4:074 分鐘 7 秒particular agile Point application now we're going to cover
+4:164 分鐘 16 秒creating an entity in more detail in another video but let's go ahead and bring one up and walk through it
+4:324 分鐘 32 秒so taking a look at this entity here you can see that there are a number of columns that comprise our table things like the customer's address which
+4:404 分鐘 40 秒correlates to a field type of text area to give me more real estate to type a physical
+4:474 分鐘 47 秒address the city is a text box the customer's email address correlates to a
+4:534 分鐘 53 秒field type of email phone and so on across the top your seeing an option
+5:005 分鐘for relationships in this particular case you can see that the customer details is related to the parent entity
+5:075 分鐘 7 秒called customer moving to an entity diagram we can see how this table is interrelated
+5:155 分鐘 15 秒with any other parent or child tables scrolling over to the data you'll
+5:225 分鐘 22 秒see all of the data that's stored as records as a part of this table from a permission ing standpoint
+5:305 分鐘 30 秒agile Point provides extensive design time as well as runtime permissions so I
+5:365 分鐘 36 秒can secure precise access to this entity from an association's perspective
+5:455 分鐘 45 秒this will help me perform an impact analysis if I were to make changes to this entity which agile Point
+5:535 分鐘 53 秒applications would be impacted as a result and finally the audit
+6:006 分鐘Trail now what this is going to show is any changes made both to the table structure in terms of columns as well as
+6:096 分鐘 9 秒any time this table was written to in the form of a new
+6:166 分鐘 16 秒record okay so let's move on over to picklists so as you can see here the
+6:236 分鐘 23 秒picklist homepage has the exact same look and feel search sort and filter capability
+6:306 分鐘 30 秒as You' seen on the data entities homepage so as an example let's walk through one of our pick lists and as you
+6:396 分鐘 39 秒can see here I have a pick list for bank account type checking or savings a third option might be say a
+6:486 分鐘 48 秒retirement account as an example okay so next let's go into entity security
+6:596 分鐘 59 秒so here I can select multiple entities in bulk and apply permissions in a single
+7:097 分鐘 9 秒action okay so with that that's going to conclude the data entity overview video thank you so much for watching until
+7:177 分鐘 17 秒next time
+

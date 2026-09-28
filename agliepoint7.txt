@@ -1,0 +1,97 @@
+hello and welcome to the form designer overview in this video we'll show you all of the powerful user interface design capabilities at your fingertips
+0:2020 秒in atcho point version 8 now in this video we're going to cover form or UI design and in the case of
+0:2929 秒agel point a user interface can be a standalone data entry sort of application or can be a part of a
+0:3636 秒business process in either case what you'll see over the course of this video will apply to both scenarios so let's get started we'll
+0:4545 秒select the app builder from the portal
+0:5656 秒menu now from the left hand side I'm going to pull up the application that i' like to
+1:071 分鐘 7 秒edit okay so this brings up all of the application components let's just scroll down and we'll find the form that we're
+1:141 分鐘 14 秒going to
+1:281 分鐘 28 秒edit okay so we'll take a look at some of the specifics of this form in just a moment but before we do that let's walk through
+1:371 分鐘 37 秒all of the UI elements and settings capabilities you have to control the behavior of your forms on the left hand side we have the
+1:461 分鐘 46 秒toolbox which consists of more than 65 configurable user interface elements each of them optimized for certain data
+1:541 分鐘 54 秒types and each with their own validation built in you'll find that these are both broken out into three major
+2:012 分鐘 1 秒categories the first of which are common controls Advanced controls as well as telic
+2:102 分鐘 10 秒components so starting off with common controls you'll see a number of these are already on our form by that I mean things like
+2:192 分鐘 19 秒headings text boxes buttons drop down list file upload controls
+2:282 分鐘 28 秒images currency even repeating elements like a sub form or a grid underneath Advanced controls they
+2:362 分鐘 36 秒start to become a little more specific things like a phone control that can be validated for a local phone number us-based number or something that's
+2:452 分鐘 45 秒dialed internationally email controls Social Security
+2:512 分鐘 51 秒ratings popup select even the ability to bring in external data via an auto
+2:582 分鐘 58 秒lookup and then lastly we have the telerate controls that we've OEM and brought into the product at no
+3:073 分鐘 7 秒cost across the top are the various form settings options starting from the left as you
+3:143 分鐘 14 秒can see here I can save my work or if I'm done for the day and would like to release the lock that I have on the application I can save and check it in
+3:233 分鐘 23 秒or simply undo my checkout underneath print I can print out my form form or save it as a
+3:323 分鐘 32 秒PDF cut copy paste and delete operations undo and
+3:393 分鐘 39 秒redo as well as form settings so under form settings you're going to see five categories I can give my form a
+3:473 分鐘 47 秒title as you can see in my case I've simply applied a label to my form which gives me a little more
+3:563 分鐘 56 秒control the title Style title
+4:034 分鐘 3 秒alignment label positioning font options and again this can be controlled by
+4:114 分鐘 11 秒CSS apply a background image and Center that POS that image as well as ensure that this form
+4:184 分鐘 18 秒inherits my Global stylesheets now as you can see here I have the ability to toggle between ago
+4:254 分鐘 25 秒points classic forms theme and the modern theme that's been introduced in version eight a CSS
+4:334 分鐘 33 秒class as well as the ability to control the form background or header underneath actions I can add
+4:414 分鐘 41 秒additional buttons to the bottom of my form as you can see here I have a submit cancel and save button that I can rename as I so
+4:504 分鐘 50 秒desire I can also optionally include a reset form which will clear all of the data entered into the fields showing the print button as well as showing save as
+4:594 分鐘 59 秒PDF and then lastly under the advanced tab cell padding and row spacing
+5:065 分鐘 6 秒options the ability to enable multilingual applications ask for a validation summary as well as confirmation on both
+5:145 分鐘 14 秒submit or save sections are going to be handy if I
+5:235 分鐘 23 秒want to break up multiple components or multiple areas of my form rather than have a endless scroll sort of scenario I
+5:305 分鐘 30 秒can break this form up into multiple sections so as you can see here I have a default section if I wanted to add a second
+5:395 分鐘 39 秒section I can do that pretty easily underneath settings I can control
+5:495 分鐘 49 秒the navigation style of my form show navigation bar as well as other navigation
+5:565 分鐘 56 秒options for layout controlling the stock of the navigation bar and then under appearance I can give
+6:046 分鐘 4 秒my form background colors as an example okay next we'll take a look at
+6:166 分鐘 16 秒CSS so here we can apply a CSS on a perform basis as well as for the entire
+6:286 分鐘 28 秒application and similarly here with JavaScript per form or for the entire
+6:376 分鐘 37 秒application next you'll see columns I can always add more but it's
+6:436 分鐘 43 秒difficult to remove columns to your layout the preview button this is going to be very useful for you as you're
+6:516 分鐘 51 秒building your application this enables you to test your application logic your lookups your rules as an
+6:586 分鐘 58 秒example as you can see here I can view the form
+7:057 分鐘 5 秒Json as well as export or import the form so I can always reuse elements that I've created even in unrelated
+7:157 分鐘 15 秒applications under the library you're going to see all of the controls that have been used access to form
+7:257 分鐘 25 秒data as well as a rule Builder well we'll cover this again in just a second here bulk edit if I wanted to Mark number of
+7:337 分鐘 33 秒fields say invisible or readon as an example and then for row scale I can
+7:407 分鐘 40 秒change the row height here okay so let's look at this application here there's a number of
+7:477 分鐘 47 秒fields that I want to walk through the first of which here is the name field which is a text box now though there are differences in
+7:567 分鐘 56 秒the various controls that agile Point supports you'll find that you configure them in a very similar manner by that I mean you'll see the same five tabs here
+8:058 分鐘 5 秒at the top taking the general tab to start with you'll see here the label this is what gets shown outwardly to the user as well
+8:148 分鐘 14 秒as the internal name now in this case here you're seeing that this particular field has been bound to a data
+8:228 分鐘 22 秒entity down below under the default value you'll see that we have a system token here so let's show you how we would do
+8:318 分鐘 31 秒this so to pre-populate a field with data would first expand out the app data column and as you've seen in Prior
+8:398 分鐘 39 秒videos there are a number of categories here underneath application data the first of which are all of the fields on
+8:458 分鐘 45 秒our form so we don't need that for now I also have a data source section now this is where I would show the data
+8:548 分鐘 54 秒that I've bound to this application and then lastly here is system data now to pre-populate this
+9:029 分鐘 2 秒field here with the user details we would go into system data and we'll scroll down to the
+9:109 分鐘 10 秒section with the user related tokens here we go so here you're seeing
+9:199 分鐘 19 秒things like user email user full name and to pre-populate this I would simply drag the user full name token underneath
+9:279 分鐘 27 秒default value now though we mentioned that you configure the various controls the same
+9:359 分鐘 35 秒way the secret sauce or the specific elements to a given control will always be found underneath the configure tab so
+9:439 分鐘 43 秒here I can mark this as a required field show a validation validation message specify the maximum length and
+9:529 分鐘 52 秒even enable BARC code scanning when used on a mobile device underneath appearance I can control the font the size of the font
+10:0110 分鐘 1 秒font style as well as any background colors but again this is typically controlled via CSS and then I can optionally apply CSS
+10:1010 分鐘 10 秒classes for this particular field underneath Behavior I can enable this control or mark it as read
+10:1810 分鐘 18 秒only enable right to left or make this control visible and then lastly under the
+10:2510 分鐘 25 秒advanced field specific validation masks format as well as
+10:3610 分鐘 36 秒JavaScript now the last piece that I'll touch on here is rules or business logic and with agile points form designer these can be applied at multiple levels
+10:4410 分鐘 44 秒of your application depending on your requirement so underneath these drop- down boxes here you're going to see a series of rules that control control
+10:5310 分鐘 53 秒showing or hiding the elements on the form so if I click on the button for rules at the top here I have my condition so
+11:0211 分鐘 2 秒when this condition is met then take the following actions so as you can see here if the request category is equal to
+11:1011 分鐘 10 秒access request then we're going to show and hide a variety of
+11:1811 分鐘 18 秒controls so here you're seeing the field for request category so to build out this condition I would simply drag request
+11:2711 分鐘 27 秒category is equal to and then whatever my desired value is so when that condition is met I'm
+11:3611 分鐘 36 秒going to show and hide various controls as you're seeing here but beyond that I have the ability to execute scripts and
+11:4311 分鐘 43 秒methods set values set dates enable or disable controls Mark a field as mandatory as
+11:5111 分鐘 51 秒well as trigger lookups to external systems now as you're seeing here I can have multiple rules they can be chained together right regardless of the
+11:5911 分鐘 59 秒complexity I build my Logic the exact same way so if we close out the field level
+12:0512 分鐘 5 秒rule Builder and go back to our toolbar you'll see here that I also have a form wide rule
+12:1312 分鐘 13 秒Builder as far as implementing the rules are concerned I build them the exact same way the big difference being here that I have additional control as to
+12:2212 分鐘 22 秒when the rule fires upon form load before on submit as well as after submit
+12:3512 分鐘 35 秒the last piece that we'll touch on here are the device specific layout tools now agileo is a responsive UI designer so I
+12:4212 分鐘 42 秒don't often need to tailor a layout for say a mobile phone or a tablet but I do have that flexibility for instance so as
+12:5012 分鐘 50 秒you can see here I have my default view of a PC browser and I can see what this form is going to look like across
+12:5612 分鐘 56 秒various devices in various or orientations so let's take the phone in landscape as an example if I wanted to
+13:0513 分鐘 5 秒remove a control I can do so here and I can also rearrange right perhaps bring the more important fields to the top of
+13:1213 分鐘 12 秒my form okay that concludes the content for this video thank you so much for
+13:2013 分鐘 20 秒watching until next time
+
+與影片時間同步
